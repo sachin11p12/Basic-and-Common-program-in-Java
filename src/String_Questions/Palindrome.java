@@ -15,7 +15,7 @@ public class Palindrome {
             rev = rev+str.charAt(i);
         }
         if (org.equals(rev)){
-            System.out.println("Palindrome String "+org);
+            System.out.println("Palindrome");
         }else {
             System.out.println("Not Palindrome");
         }
