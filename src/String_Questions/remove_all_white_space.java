@@ -7,5 +7,6 @@ public class remove_all_white_space {
         String str = "I am Sachin Tiwari ! How about you ";
         String result = str.replaceAll("\\s","");
         System.out.println(result);
+
     }
 }
