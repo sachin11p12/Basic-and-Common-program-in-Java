@@ -2,7 +2,7 @@
 
 This repository contains a curated collection of **basic and commonly asked Java programs**, especially useful for freshers and intermediate developers preparing for coding interviews.
 
-The programs are grouped into categories like **Arrays**, **Math-based questions**, and **String manipulations**, which are frequently covered in technical interviews and coding rounds.
+The programs are grouped into categories like **Arrays**, **Math-based questions**, **Strings**, and **Interview-Level problems**, which are frequently covered in technical interviews and coding rounds.
 
 ---
 
@@ -46,9 +46,31 @@ These programs help build mathematical logic often required in interviews:
 
 ## 🧵 String-Based Questions
 
-Coming soon…
+These programs cover common string manipulation and interview-level string logic:
 
-(You can list your string-related programs here, like checking for palindrome strings, reversing a string, counting characters, anagram check, etc.)
+- `Anagram_string.java` – Check if two strings are anagrams.
+- `Contain_digit_or_not.java` – Check if a string contains a digit.
+- `Count_no_character.java` – Count total characters in a string.
+- `Frequency_of_each_character.java` – Count frequency of each character.
+- `Length_string_not_use_builtin.java` – Find length of a string without using built-in functions.
+- `Maxx_occurance.java` – Find character with maximum occurrence.
+- `Palindrome.java` – Check if a string is palindrome.
+- `Remove_duplicate_character.java` – Remove duplicate characters from string.
+- `Replace_character_string.java` – Replace a character in a string.
+- `Reverse.java` – Reverse a string.
+- `String_equal_or_not.java` – Check if two strings are equal.
+- `convert_upper_lower.java` – Convert string to uppercase and lowercase.
+- `count_cap_small.java` – Count uppercase and lowercase characters.
+- `count_no_of_word.java` – Count number of words in a string.
+- `remove_all_white_space.java` – Remove all white spaces from a string.
+
+---
+
+## 🎯 Interview-Level Questions
+
+These programs are slightly advanced and mimic real interview coding challenges:
+
+- `Two_Sum_Bruite_Force.java` – Find two indices in an array whose elements add up to a target value.
 
 ---
 
@@ -57,7 +79,3 @@ Coming soon…
 1. Clone the repository:
    ```bash
    git clone https://github.com/sachin11p12/Basic-and-Common-program-in-Java.git
-🔄 **Regular Updates Coming!**  
-I will be adding more Java programs regularly, including commonly asked **String**, **Pattern**, **Recursion**, and **OOP**-based questions.  
-Stay tuned for consistent updates focused on **interview preparation** and **logic building**.  
-Feel free to star ⭐ the repo and follow to keep up with new additions!  
