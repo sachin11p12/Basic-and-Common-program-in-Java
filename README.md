@@ -71,7 +71,8 @@ These programs cover common string manipulation and interview-level string logic
 These programs are slightly advanced and mimic real interview coding challenges:
 
 - `Two_Sum_Bruite_Force.java` – Find two indices in an array whose elements add up to a target value.
-
+- `Two_SumHashMap.java` - Find two indices in an array whose elements add up to a target value using HashMap (Optimal Approach).
+- `Moves_zero_end` - Moves zero to the end Using Two pointer Method.
 ---
 
 ## 🚀 How to Use
